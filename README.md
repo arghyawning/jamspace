@@ -1,5 +1,7 @@
 # Jamspace
 
+Jamspace is a music platform (Android application) designed to offer music enthusiasts a unique social listening experience.
+
 ### Team
 - Arghya Roy
 - Muskan Raina
