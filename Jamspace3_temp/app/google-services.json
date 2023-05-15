@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249721320605",
+    "project_id": "jmp-mkt",
+    "storage_bucket": "jmp-mkt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249721320605:android:34aa841fb5190520ff9074",
+        "android_client_info": {
+          "package_name": "com.meerkat.jamspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249721320605-6c80riugnln0sth5q977cjvb6jesl1rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBSxz0vDJfYGJ_kQst-ChhE6IdT5r6NKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249721320605-6c80riugnln0sth5q977cjvb6jesl1rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
