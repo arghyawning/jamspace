@@ -10,6 +10,8 @@ Jamspace is a music platform (Android application) designed to offer music enthu
 
 (DASS Team 39)
 
+<br>
+
 ### Client
 Karan Vadde
 
